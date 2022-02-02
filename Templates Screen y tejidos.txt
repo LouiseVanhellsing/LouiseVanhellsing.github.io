@@ -1,0 +1,30 @@
+
+plantillas para Screen y Tejidos
+
+https://plantillashtmlgratis.com/todas-las-plantillas/plantilla/plantilla-web-simple-gratuita-prospera/
+
+
+https://es.wix.com/website-template/view/html/1261?siteId=92cfefd4-713b-45e8-893d-a23c82696dae&metaSiteId=0b3a25ef-4a7f-4902-a533-cccbcc186955&originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fdesign
+
+
+
+"Could not parse the JSON file. Error on line number '6': '\"ConnectionString\": \"Data Source= '23.21.186.194'; Initial Catalog= 'ScaleFusion_2'; persist security info = True;  User id:'sa'; password: 'Produ2008'\",\r\n\"providerName\"= \"System.Data.SqlClient\"'."
+
+
+
+
+precinto y precierre
+envio el precinto va a SAP sap responde true o false...
+exitoso habilita el cierre
+
+
+precinto da 0 el campo leg no coincide
+modfiicaron en 1 habilitaron el precierre
+
+
+
+
+crear caso para 
+
+
+

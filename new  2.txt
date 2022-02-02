@@ -1,0 +1,403 @@
+"devices": [
+    {
+      "device": {
+        "id": 834214,
+        "name": "unknown",
+        "battery_status": 87,
+        "battery_charging": false,
+        "serial_no": "unknown",
+        "imei_no": null,
+        "status": "LICENSED",
+        "model": "TC26",
+        "make": "Zebra Technologies",
+        "os_version": "10",
+        "app_version_name": "7.1.1-rc-IC",
+        "android_id": "08d4202aa2350ccc",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": false,
+        "last_connected_at": "2020-09-16T11:05:10.379Z",
+        "wifi_mac_address": "94:FB:29:A3:36:6C",
+        "build_serial_no": "unknown",
+        "gsm_serial_no": "unknown",
+        "iccid_no": null,
+        "location": {
+          "lat": 4.7215701,
+          "lng": -74.1329082,
+          "address": "Urbanización Unir Public Park, Tv. 123a ##37, Bogotá, Colombia",
+          "date_time": 1596478674000,
+          "created_at": "2020-08-03 18:17:54"
+        },
+        "profile": {
+          "id": 69756,
+          "name": "Devices"
+        },
+        "group": {
+          "id": null,
+          "name": null
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 804887,
+        "name": "Piloto Interactuar",
+        "battery_status": 85,
+        "battery_charging": false,
+        "serial_no": "17011B3201",
+        "imei_no": "356074080001519",
+        "status": "LICENSED",
+        "model": "EDA50",
+        "make": "Honeywell",
+        "os_version": "7.1.1",
+        "app_version_name": "6.9.0-IC",
+        "android_id": "f500cdabde864f45",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-07-22T16:11:39.000Z",
+        "wifi_mac_address": "00:10:20:87:34:c8",
+        "build_serial_no": "17011B3201",
+        "gsm_serial_no": "unknown",
+        "iccid_no": null,
+        "location": {
+          "lat": 6.3170758,
+          "lng": -75.5540008,
+          "address": "Cra. 45 ## 26- 175, Bello, Antioquia, Colombia",
+          "date_time": 1595434291000,
+          "created_at": "2020-07-22 16:11:31"
+        },
+        "profile": {
+          "id": 64338,
+          "name": "Interactuar"
+        },
+        "group": {
+          "id": 30578,
+          "name": "Interactuar"
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 852937,
+        "name": "Infotrack",
+        "battery_status": 88,
+        "battery_charging": false,
+        "serial_no": "R9WN3024QWJ",
+        "imei_no": "353414112357021",
+        "status": "LICENSED",
+        "model": "SM-A107M",
+        "make": "samsung",
+        "os_version": "9",
+        "app_version_name": "7.1.2-IC",
+        "android_id": "aa3bdc819af47666",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-09-16T12:25:24.000Z",
+        "wifi_mac_address": "94:2D:DC:61:33:1E",
+        "build_serial_no": "R9WN3024QWJ",
+        "gsm_serial_no": "R9WN3024QWJ",
+        "iccid_no": null,
+        "location": {
+          "lat": 4.7208195,
+          "lng": -74.1330579,
+          "address": "DG 77 - Tv 120A, Bogotá, Colombia",
+          "date_time": 1600259062000,
+          "created_at": "2020-09-16 12:24:22"
+        },
+        "profile": {
+          "id": 58827,
+          "name": "General"
+        },
+        "group": {
+          "id": 29506,
+          "name": "Demos"
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 838793,
+        "name": "QS_kiosk-14",
+        "battery_status": 1,
+        "battery_charging": true,
+        "serial_no": "104X1500977",
+        "imei_no": "990004190391551",
+        "status": "LICENSED",
+        "model": "CN51 NCF",
+        "make": "Foxconn International Holdings Limited",
+        "os_version": "6.0",
+        "app_version_name": "7.1.2-IC",
+        "android_id": "f81efef5d7d0fd45",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": false,
+        "last_connected_at": "2020-08-11T15:46:15.313Z",
+        "wifi_mac_address": "00:10:40:8B:22:95",
+        "build_serial_no": "104X1500977",
+        "gsm_serial_no": "unknown",
+        "iccid_no": null,
+        "location": {
+          "lat": 4.6518458,
+          "lng": -74.1419385,
+          "address": "Cra. 82a #11-37, Bogotá, Colombia",
+          "date_time": 1597160285000,
+          "created_at": "2020-08-11 15:38:05"
+        },
+        "profile": {
+          "id": 70591,
+          "name": "CN51F"
+        },
+        "group": {
+          "id": 31969,
+          "name": "femsa CN51"
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 801576,
+        "name": "Yesid Hurtado",
+        "battery_status": 84,
+        "battery_charging": false,
+        "serial_no": "19003521403261",
+        "imei_no": "357916080351501",
+        "status": "LICENSED",
+        "model": "TC25",
+        "make": "Zebra Technologies",
+        "os_version": "7.1.2",
+        "app_version_name": "6.9.0-IC",
+        "android_id": "8bcd5c4403029419",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-08-19T15:54:50.000Z",
+        "wifi_mac_address": "94:fb:29:61:aa:51",
+        "build_serial_no": "19003521403261",
+        "gsm_serial_no": "unknown",
+        "iccid_no": "8934075500003616670",
+        "location": {
+          "lat": 4.7005825,
+          "lng": -74.1039916,
+          "address": "Cl. 75b #No. 87-04, Bogotá, Colombia",
+          "date_time": 1597852489000,
+          "created_at": "2020-08-19 15:54:49"
+        },
+        "profile": {
+          "id": 59638,
+          "name": "TC25"
+        },
+        "group": {
+          "id": 29356,
+          "name": "Zebra_TC25"
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 867287,
+        "name": "TC25",
+        "battery_status": 54,
+        "battery_charging": false,
+        "serial_no": "18330521405060",
+        "imei_no": "357916080292804",
+        "status": "LICENSED",
+        "model": "TC25",
+        "make": "Zebra Technologies",
+        "os_version": "7.1.2",
+        "app_version_name": "7.1.2-remote-control-IC",
+        "android_id": "c78ae7a639566517",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-09-16T12:26:02.000Z",
+        "wifi_mac_address": "94:fb:29:61:4b:85",
+        "build_serial_no": "18330521405060",
+        "gsm_serial_no": "unknown",
+        "iccid_no": null,
+        "location": {
+          "lat": 4.7207924,
+          "lng": -74.1330736,
+          "address": "DG 77 - Tv 120A, Bogotá, Colombia",
+          "date_time": 1600259161000,
+          "created_at": "2020-09-16 12:26:01"
+        },
+        "profile": {
+          "id": null,
+          "name": null
+        },
+        "group": {
+          "id": null,
+          "name": null
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 867296,
+        "name": "352983070844346",
+        "battery_status": 94,
+        "battery_charging": false,
+        "serial_no": "EF500A4LRLEQLBA879",
+        "imei_no": "352983070844346",
+        "status": "LICENSED",
+        "model": "EF500",
+        "make": "Bluebird",
+        "os_version": "6.0.1",
+        "app_version_name": "7.1.2-IC",
+        "android_id": "91a0c90be6cb2991",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-09-16T12:27:02.000Z",
+        "wifi_mac_address": "00:16:7F:1F:67:98",
+        "build_serial_no": "EF500A4LRLEQLBA879",
+        "gsm_serial_no": "unknown",
+        "iccid_no": null,
+        "location": {
+          "lat": 4.583355,
+          "lng": -74.1597786,
+          "address": "Cl. 68b Sur #69-83, Bogotá, Colombia",
+          "date_time": 1600259222000,
+          "created_at": "2020-09-16 12:27:02"
+        },
+        "profile": {
+          "id": 62117,
+          "name": "F500_activos"
+        },
+        "group": {
+          "id": 30127,
+          "name": "Meals_Calle"
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 867316,
+        "name": "Tablet Zebra",
+        "battery_status": 99,
+        "battery_charging": true,
+        "serial_no": "20199523600380",
+        "imei_no": "353502100104262",
+        "status": "LICENSED",
+        "model": "L10AW",
+        "make": "Zebra Technologies",
+        "os_version": "8.1.0",
+        "app_version_name": "7.1.2-remote-control-IC",
+        "android_id": "56e2af646b80c7c5",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-09-16T12:25:04.000Z",
+        "wifi_mac_address": "94:FB:29:E0:FF:F2",
+        "build_serial_no": "20199523600380",
+        "gsm_serial_no": "unknown",
+        "iccid_no": null,
+        "location": {
+          "lat": 4.7136719,
+          "lng": -74.1144187,
+          "address": "AK 104 - Cl 81, Bogotá, Colombia",
+          "date_time": 1600259043000,
+          "created_at": "2020-09-16 12:24:03"
+        },
+        "profile": {
+          "id": 47556,
+          "name": "Demo"
+        },
+        "group": {
+          "id": null,
+          "name": null
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 778829,
+        "name": "CT60 Femsa",
+        "battery_status": 87,
+        "battery_charging": false,
+        "serial_no": "18162D80AA",
+        "imei_no": "990010900365306",
+        "status": "LICENSED",
+        "model": "CT60",
+        "make": "Honeywell",
+        "os_version": "8.1.0",
+        "app_version_name": "6.9.0-IC",
+        "android_id": "40433386a0e93977",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": false,
+        "last_connected_at": "2020-07-23T17:44:21.342Z",
+        "wifi_mac_address": "00:10:20:CE:AF:FD",
+        "build_serial_no": "18162D80AA",
+        "gsm_serial_no": "unknown",
+        "iccid_no": "89571015023094877312",
+        "location": {
+          "lat": 4.651774,
+          "lng": -74.1418651,
+          "address": "Carrera 82A, Vergel Occidental, Alsacia Real, Kennedy, Bogotá, 110821, Colombia",
+          "date_time": 1589987465000,
+          "created_at": "2020-05-20 15:11:05"
+        },
+        "profile": {
+          "id": 58827,
+          "name": "General"
+        },
+        "group": {
+          "id": 26833,
+          "name": "Homologación"
+        }
+      }
+    },
+    {
+      "device": {
+        "id": 858811,
+        "name": "Unitech",
+        "battery_status": 51,
+        "battery_charging": false,
+        "serial_no": "D541203000432",
+        "imei_no": "355239110073058",
+        "status": "LICENSED",
+        "model": "EA630",
+        "make": "Unitech_Electronics",
+        "os_version": "9",
+        "app_version_name": "7.1.2-IC",
+        "android_id": "f24e663db15a774c",
+        "in_trial": false,
+        "licence_active": true,
+        "licence_expires_at": 1600300800,
+        "locked": true,
+        "last_connected_at": "2020-09-15T20:17:48.000Z",
+        "wifi_mac_address": "00:16:09:4D:E0:58",
+        "build_serial_no": "D541203000432",
+        "gsm_serial_no": "unknown",
+        "iccid_no": "89571015019068475000",
+        "location": {
+          "lat": 6.2668797,
+          "lng": -75.57313,
+          "address": "Cra. 64 ## 67 B-35, Medellín, Antioquia, Colombia",
+          "date_time": 1600201066000,
+          "created_at": "2020-09-15 20:17:46"
+        },
+        "profile": {
+          "id": 74517,
+          "name": "Unitech"
+        },
+        "group": {
+          "id": 32694,
+          "name": "Unitech_Group"
+        }
+      }
+    }
+  ]
+}
